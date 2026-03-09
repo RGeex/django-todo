@@ -1,0 +1,18 @@
+# venv
+venv/
+.venv/
+
+Pipfile*
+
+
+# ide
+.idea/
+.vscode/
+
+
+# project
+__pycache__/
+
+env
+.env
+*.sqlite3
